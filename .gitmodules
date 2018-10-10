@@ -1,3 +1,9 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/stephenbm/vim
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/OperationalDev/dotfiles.git
+[submodule "hashicorp-tools"]
+	path = hashicorp-tools
+	url = https://github.com/OperationalDev/hashicorp-tools.git
